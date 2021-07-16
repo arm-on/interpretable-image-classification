@@ -16,5 +16,5 @@ The project includes some phases:
   
 - Comparing methods based on the models
 
-
+In this phase, we tried to compare the methods based on the degradation of accuracy the cause for the models. More specifically, we first generated an unreal testing set based on the real one. This was done by taking the top 20% of the most important pixels of each image, and replacing it by 0 or 255 (a kind of salt and pepper noise was added to the testing dataset while keeping only a small percentage of the most important pixels unchanged).
 - Interpretability in Bayesian Neural Networks
