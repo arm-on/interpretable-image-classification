@@ -1,4 +1,4 @@
-# Interpretable Image Classification
+# Interpretable Image Classification (IIC)
 
 Interpretability methods applied on image classifiers trained on MNIST and CIFAR10
 ---
