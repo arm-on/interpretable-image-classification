@@ -7,7 +7,7 @@ This repo includes the files (jupyter notebooks) for the interpretation of two d
 Project Phases
 ---
 The project includes some phases:
-- Training neural networks on the datasets
+- Training neural networks on the datasets [<a href="https://github.com/arm-on/interpretable-image-classification/tree/main/training">Code</a>]
   
   In this phase, we trained two deep neural networks. One of them was trained on the MNIST dataset of images, and the other one on CIFAR10. Both of the neural networks achieve accuracy greater than 93% both on the training and testing datasets. We were curious to see if the networks had really learned to extract a good set of features, and operated based on them.
 - Implementing interpretability methods
