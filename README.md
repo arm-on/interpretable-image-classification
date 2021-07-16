@@ -42,7 +42,7 @@ Please cite this github repo in your publication if you are using "Interpretable
 
 Report
 ---
-For now, a complete report is available for the project in Persian (check the "report" folder). An English version of the report might be added later.
+For now, a complete report is available for the project in Persian (check the <a href="https://github.com/arm-on/interpretable-image-classification/tree/main/report">"report" folder</a>). An English version of the report might be added later.
 
 <!--Contact
 ---
