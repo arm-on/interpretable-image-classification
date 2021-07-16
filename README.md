@@ -29,13 +29,12 @@ Cite
 Please cite the following paper in your publication if you are using PREDICT in your research:
 ```
 @misc{Charles2013,
-  author = {Malekzadeh, Arman and Gooran, Soroush},
-  title = {Project Title},
-  year = {2013},
+  author={Malekzadeh, Arman and Gooran, Soroush and Hemmatyar, Mehdi and Aghamiri, Saeed},
+  title = {Interpretable Image Classifiers},
+  year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/charlespwd/project-title}},
-  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+  howpublished = {\url{https://github.com/arm-on/interpretable-image-classification/}},
 }
 ```
 
