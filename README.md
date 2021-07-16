@@ -26,7 +26,7 @@ The project includes some phases:
   
 Cite
 ---
-Please cite the following paper in your publication if you are using PREDICT in your research:
+Please cite the following paper in your publication if you are using "Interpretable Image Classifiers" (IIC) in your research:
 ```
 @misc{iic2021,
   author={Malekzadeh, Arman and Gooran, Soroush and Hemmatyar, Mehdi and Aghamiri, Saeed},
