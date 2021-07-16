@@ -38,6 +38,9 @@ Please cite this github repo in your publication if you are using "Interpretable
 }
 ```
 
+Report
+---
+For now, a complete report is available for the project in Persian (check the "report" folder). An English version of the report might be added later.
   
 Acknowledgements
 ---
