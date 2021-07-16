@@ -28,7 +28,7 @@ Cite
 ---
 Please cite the following paper in your publication if you are using PREDICT in your research:
 ```
-@misc{Charles2013,
+@misc{iic2021,
   author={Malekzadeh, Arman and Gooran, Soroush and Hemmatyar, Mehdi and Aghamiri, Saeed},
   title = {Interpretable Image Classifiers},
   year = {2021},
