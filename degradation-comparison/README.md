@@ -1,4 +1,4 @@
 Description
 ---
 
-This folder contains notebooks used to compare methods based on the degradation of the models' accuracy.
+This folder contains notebooks used to compare methods (LIME, KSHAP, and LRP) based on the degradation of the models' accuracy.
