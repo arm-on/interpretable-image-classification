@@ -44,9 +44,9 @@ Report
 ---
 For now, a complete report is available for the project in Persian (check the "report" folder). An English version of the report might be added later.
 
-Contact
+<!--Contact
 ---
-Please do not hesitate to ask your questions from us. For any details or discussions about the repo, you can open an issue, or send an email to <a href="mailto:malekzadeh@ieee.org">malekzadeh@ieee.org</a>.
+Please do not hesitate to ask your questions from us. For any details or discussions about the repo, you can open an issue, or send an email to <a href="mailto:malekzadeh@ieee.org">malekzadeh@ieee.org</a>. -->
 
 Acknowledgements
 ---
