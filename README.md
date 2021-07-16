@@ -21,3 +21,6 @@ The project includes some phases:
 - Interpretability in Bayesian Neural Networks
 
   The last step includes training a bayesian neural net. This network's architecture is much simpler than the previous ones (only includes some linear layers nonlinearized by "ReLU" activations). However, the weights and biases in this network are assumed to be random variables each coming from the Normal distribution. The mean and variance of these distributions were tuned during the training.
+  
+
+Note: This project was done as a course project for the Statistical Machine Learning (SML) course offered by Sharif University of Technology on Spring 2021.
