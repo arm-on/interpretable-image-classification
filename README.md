@@ -24,6 +24,22 @@ The project includes some phases:
 
   The last step includes training a bayesian neural net. This network's architecture is much simpler than the previous ones (only includes some linear layers nonlinearized by "ReLU" activations). However, the weights and biases in this network are assumed to be random variables each coming from the Normal distribution. The mean and variance of these distributions were tuned during the training.
   
+Cite
+---
+Please cite the following paper in your publication if you are using PREDICT in your research:
+```
+@misc{Charles2013,
+  author = {Malekzadeh, Arman and Gooran, Soroush},
+  title = {Project Title},
+  year = {2013},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/charlespwd/project-title}},
+  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+}
+```
+
+  
 Acknowledgements
 ---
 This project was done as a course project for the <a href="http://ce.sharif.edu/courses/99-00/2/ce729-1/">Statistical Machine Learning (SML) course offered by Sharif University of Technology on Spring 2021</a>.
