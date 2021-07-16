@@ -22,7 +22,7 @@ The project includes some phases:
 
   In this phase, we tried to compare the methods based on the degradation of accuracy the cause for the models. More specifically, we first generated an unreal testing set based on the real one. This was done by taking the top 20% of the most important pixels of each image, and replacing it by 0 or 255 (a kind of salt and pepper noise was added to the testing dataset while keeping only a small percentage of the most important pixels unchanged). After feeding each network with only 20% of the useful information, its accuracy on the new testing set was calculated. Note that "the most important pixels" were determined by the three previously mentioned interpretability methods (they are not necessarily correct though! right?). 
   
-- Interpretability in Bayesian Neural Networks [<a href="https://github.com/arm-on/interpretable-image-classification/tree/main/bayesian-nn>Code</a>]
+- Interpretability in Bayesian Neural Networks [<a href="https://github.com/arm-on/interpretable-image-classification/tree/main/bayesian-nn">Code</a>]
 
   The last step includes training a bayesian neural net. This network's architecture is much simpler than the previous ones (only includes some linear layers nonlinearized by "ReLU" activations). However, the weights and biases in this network are assumed to be random variables each coming from the Normal distribution. The mean and variance of these distributions were tuned during the training.
   
