@@ -41,4 +41,4 @@ Please cite the following paper in your publication if you are using "Interpreta
   
 Acknowledgements
 ---
-This project was done as a course project for the <a href="http://ce.sharif.edu/courses/99-00/2/ce729-1/">Statistical Machine Learning (SML) course offered by Sharif University of Technology on Spring 2021</a>.
+This project was done as a course project for the <a href="http://ce.sharif.edu/courses/99-00/2/ce729-1/">Statistical Machine Learning (SML) course offered by Sharif University of Technology on Spring 2021</a> instructed by <a href="http://sharif.edu/~rabiee/">Professor Rabiee</a>.
