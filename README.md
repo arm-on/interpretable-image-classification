@@ -31,7 +31,7 @@ Cite
 Please cite this github repo in your publication if you are using "Interpretable Image Classifiers" (IIC) in your research:
 ```
 @misc{iic2021,
-  author={Malekzadeh, Arman and Gooran, Soroush and Hemmatyar, Mehdi and Aghamiri, Saeed},
+  author={Malekzadeh, Arma},
   title = {Interpretable Image Classifiers},
   year = {2021},
   publisher = {GitHub},
