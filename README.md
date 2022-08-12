@@ -48,6 +48,3 @@ For now, a complete report is available for the project in Persian (check the <a
 ---
 Please do not hesitate to ask your questions from us. For any details or discussions about the repo, you can open an issue, or send an email to <a href="mailto:malekzadeh@ieee.org">malekzadeh@ieee.org</a>. -->
 
-Acknowledgements
----
-This project was done as a course project for the <a href="http://ce.sharif.edu/courses/99-00/2/ce729-1/">Statistical Machine Learning (SML) course offered by Sharif University of Technology on Spring 2021</a> instructed by <a href="http://sharif.edu/~rabiee/">Prof. Rabiee</a>.
